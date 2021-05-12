@@ -1,0 +1,77 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Poppins:300,400,500,700");
+
+.list-inline {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .list-inline li {
+    display: inline;
+    padding: 20px;
+  }
+  
+  .card {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    padding: 40px;
+    background-color: #7da3b3;
+    border-radius: 10px;
+    margin: 50px 0 25px 0;
+  }
+  
+  .container {
+    width: 700px;
+    margin: 0 auto;
+  }
+  
+  img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+  }
+  
+  body {
+    background-color: #c8cdce;
+    color: #575f7d;
+    text-align: center;
+    font-family: "Lora", serif;
+  }
+  
+  h1,
+  h2,
+  h3,
+  a {
+    font-family: "Roboto", sans-serif;
+  }
+  
+  h1 {
+    color: #2a2b2e;
+    font-size: 42px;
+    font-weight: 900;
+  }
+  
+  h2 {
+    color: #32089b;
+  }
+  
+  p {
+    padding-bottom: 15px;
+  }
+  
+  a.btn {
+    text-decoration: none;
+    background-color: #090f78;
+    color: #575f7d;
+    padding: 15px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  
+  a.btn:hover {
+    background-color: black;
+  }
+  
+  li i {
+    font-size: 50px;
+    color: rgb(15, 2, 35);
+  }
+  © 2021 GitHub, Inc.
